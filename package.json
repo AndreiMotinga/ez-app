@@ -2,6 +2,7 @@
   "name": "ez-app",
   "version": "0.1.0",
   "private": true,
+  "proxy": "http://localhost:5000/",
   "devDependencies": {
     "react-scripts": "1.1.4"
   },
